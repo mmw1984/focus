@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">專注時鐘</string>
+    <string name="focus_session">專注時段</string>
+    <string name="break_session">休息時段</string>
+    <string name="micro_break">微休息</string>
+    <string name="start">開始</string>
+    <string name="pause">暫停</string>
+    <string name="stop">停止</string>
+    <string name="reset">重置</string>
+    <string name="settings">設定</string>
+    <string name="statistics">統計</string>
+    <string name="timer">計時器</string>
+    
+    <!-- Settings -->
+    <string name="focus_duration">專注時長</string>
+    <string name="break_duration">休息時長</string>
+    <string name="micro_break_enabled">啟用微休息</string>
+    <string name="micro_break_duration">微休息時長</string>
+    <string name="micro_break_interval">微休息間隔</string>
+    <string name="notification_enabled">啟用通知</string>
+    <string name="vibration_enabled">啟用震動</string>
+    <string name="start_sound">開始音效</string>
+    <string name="end_sound">結束音效</string>
+    
+    <!-- Statistics -->
+    <string name="total_focus_time">總專注時間</string>
+    <string name="focus_sessions_today">今日專注次數</string>
+    <string name="average_focus_time">平均專注時間</string>
+    <string name="consecutive_days">連續天數</string>
+    <string name="daily_stats">每日統計</string>
+    <string name="weekly_stats">週統計</string>
+    <string name="monthly_stats">月統計</string>
+    
+    <!-- Time units -->
+    <string name="minutes">分鐘</string>
+    <string name="hours">小時</string>
+    <string name="seconds">秒</string>
+    
+    <!-- Notifications -->
+    <string name="timer_service_notification_channel">計時器服務</string>
+    <string name="timer_service_description">專注計時器通知</string>
+    <string name="micro_break_title">微休息時間</string>
+    <string name="micro_break_message">請短暫休息10秒，閉眼放鬆</string>
+    <string name="micro_break_end_title">微休息結束</string>
+    <string name="micro_break_end_message">休息結束，繼續專注</string>
+    <string name="focus_complete_title">專注完成</string>
+    <string name="focus_complete_message">專注時段完成，開始休息</string>
+    <string name="break_complete_title">休息結束</string>
+    <string name="break_complete_message">可以開始下一個專注時段了</string>
+</resources>
+    <string name="sessions">次</string>
+    
+    <!-- Notification strings -->
+    <string name="timer_notification_title">Focus 計時器</string>
+    <string name="focus_complete_title">專注時段完成</string>
+    <string name="focus_complete_message">恭喜！您已完成一個專注時段，現在可以休息一下。</string>
+    <string name="break_complete_title">休息時段完成</string>
+    <string name="break_complete_message">休息結束，準備開始下一個專注時段。</string>
+    <string name="micro_break_title">微休息提醒</string>
+    <string name="micro_break_message">記得眨眨眼，活動一下身體！</string>
+    
+    <!-- Timer service -->
+    <string name="timer_service_notification_channel">計時器服務</string>
+    <string name="timer_service_description">Focus 計時器服務</string>
+</resources>

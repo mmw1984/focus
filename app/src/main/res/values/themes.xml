@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Focus" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/focus_primary</item>
+        <item name="colorPrimaryVariant">@color/focus_primary_variant</item>
+        <item name="colorSecondary">@color/focus_secondary</item>
+        <item name="colorSecondaryVariant">@color/focus_secondary_variant</item>
+        <item name="android:colorBackground">@color/focus_background</item>
+        <item name="colorSurface">@color/focus_surface</item>
+        <item name="colorError">@color/focus_error</item>
+        <item name="colorOnPrimary">@color/focus_on_primary</item>
+        <item name="colorOnSecondary">@color/focus_on_secondary</item>
+        <item name="colorOnBackground">@color/focus_on_background</item>
+        <item name="colorOnSurface">@color/focus_on_surface</item>
+        <item name="colorOnError">@color/focus_on_error</item>
+    </style>
+</resources>
